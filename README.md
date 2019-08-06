@@ -3,3 +3,6 @@
 
 # VolumetricTracer
 A simple way to render soft, volumetric bullet tracers in Unity. Only needs a unit cube and a material to render and supports instancing.
+
+# Usage
+See the VolumetricTracer prefab for an example on how to use it. To control the size of the tracer, just change the scale of the GameObject.
